@@ -1,5 +1,3 @@
-# Βασιλικού Ιωάννα sdi2100012
-
 import itertools
 import random
 import re
